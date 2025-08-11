@@ -9,7 +9,7 @@ Questa repo contiene **tutte le librerie .deb mancanti** per permettere il corre
   - libgconf-2-4
   - gconf2-common
   - libdbusmenu-gtk4
-- Pacchetto ufficiale `forticlient_vpn_7.4.3.1736_amd64.deb`
+- link al pacchetto ufficiale `forticlient_vpn_7.4.3.1736_amd64.deb` 
 
 ## ⚙️ Installazione
 Clona la repo e avvia lo script:
