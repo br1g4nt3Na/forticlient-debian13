@@ -14,7 +14,7 @@ Questa repo contiene **tutte le librerie .deb mancanti** per permettere il corre
 ## ⚙️ Installazione
 Clona la repo e avvia lo script:
 ```bash
-git clone https://github.com/<TUO_USER>/forticlient-debian13.git
+git clone https://github.com/br1g4nt3Na/forticlient-debian13.git
 cd forticlient-debian13
 chmod +x install.sh
 ./install.sh
